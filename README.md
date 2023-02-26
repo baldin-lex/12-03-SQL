@@ -15,7 +15,7 @@
 
 ### Решение:
 
-![SQL](images/2.jpg)
+![SQL](images/2_repl.jpg)
 
 ---
 ### Задание 3
